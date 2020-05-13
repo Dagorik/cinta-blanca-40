@@ -1,0 +1,23 @@
+h1 {
+    color: #2cf309;
+}
+
+p {
+    color: #8f068f;
+}
+
+#subparrafo {
+    color: #ff0000;
+}
+
+.perfil {
+    background-color: gray;
+}
+
+#parrafo-dentro-perfil{
+    color: aqua;
+}
+
+.estudios {
+    background-color: yellow;
+}
